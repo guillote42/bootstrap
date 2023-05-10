@@ -1,0 +1,44 @@
+.navegacion{background-color: rgb(75, 73, 73);}
+
+
+
+
+
+.bg-mi-gris_oscuro {
+    background-color: #413f3f; /* color personalizado - CAC*/
+    ; 
+}
+
+
+.conf{display: flex;}
+.bsas{display: flex;
+justify-content: end;
+padding-left: 600px;}
+.react{background-color: rgb(16, 171, 182);}
+.izquierda{background-image: url(../assets/img/honolulu.jpg);
+ background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+ border: 1px solid white;
+height: 100%;}
+.derecha{border: 1px solid white;
+height: 100%;}
+.honlulu{height: 60vh;}
+.enviar{background-color: greenyellow;}
+.footer{background-color: rgb(11, 102, 102);}
+
+
+
+
+@media screen and(max-with: 767px) {
+.honlulu{height: initial;}
+.izquierda{height: 40vh;}
+.derecha{height: 40vh;}
+
+
+
+}
+    
+    
+    
+    
